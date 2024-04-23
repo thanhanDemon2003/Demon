@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\CodeRun\\.NetCore\\Demon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F31861C-A1A1-46A8-8B21-7CC78F0D1B8C}|Demon.Web\\Demon.Web.csproj|b:\\coderun\\.netcore\\demon\\demon.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F31861C-A1A1-46A8-8B21-7CC78F0D1B8C}|Demon.Web\\Demon.Web.csproj|solutionrelative:demon.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 464,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\CodeRun\\.NetCore\\Demon\\Demon.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Demon.Web\\Program.cs",
+              "ToolTip": "B:\\CodeRun\\.NetCore\\Demon\\Demon.Web\\Program.cs",
+              "RelativeToolTip": "Demon.Web\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:28:17.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
